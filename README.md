@@ -1,16 +1,17 @@
 # wardrobee
 
-A new Flutter project.
+一个衣橱
 
-## Getting Started
+## 简介
 
-This project is a starting point for a Flutter application.
+使用Flutter开发
 
-A few resources to get you started if this is your first Flutter project:
+参考网站:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Flutter中文网](https://flutter.dev/docs/get-started/codelab)
+- [Dart中文网](https://dart.cn/guides/language/language-tour)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 如何使用
+
+胖胖专用～
